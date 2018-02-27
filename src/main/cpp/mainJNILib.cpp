@@ -14,8 +14,8 @@ extern "C" {
 #include <utils/Mutex.h>
 using namespace android;
 
-#include <fpdfview.h>
-#include <fpdf_doc.h>
+#include <fpdf/fpdfview.h>
+#include <fpdf/fpdf_doc.h>
 #include <string>
 #include <vector>
 
